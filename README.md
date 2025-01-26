@@ -47,7 +47,7 @@ Before proceeding, ensure you have the following installed on your system:
 
 2. Clone the project repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Shahriar-H/test-neovo
    ```
 
 3. Navigate to the project folder:
