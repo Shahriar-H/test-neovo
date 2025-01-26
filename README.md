@@ -134,11 +134,4 @@ Before proceeding, ensure you have the following installed on your system:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to reach out via Issues or Pull Requests if you encounter any problems or have suggestions!
 
